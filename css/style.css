@@ -109,3 +109,7 @@ body{
     outline: none;
 }
 
+.task .delelte{
+    cursor: pointer;
+}
+
