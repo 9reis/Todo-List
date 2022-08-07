@@ -30,6 +30,7 @@ document.querySelector("#push").onclick = function()
                 this.classList.toggle('completed')
             }
         }
+        document.querySelector('#newtask input').value = "";
     } 
 
 

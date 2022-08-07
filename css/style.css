@@ -19,7 +19,6 @@ body{
 }
 
 .container{
-    border: 2px solid #FFF;
     width: 40%;
     min-width: 450px;
     position: absolute;
@@ -107,6 +106,7 @@ body{
     border: none;
     cursor: pointer;
     outline: none;
+    font-size: 1.2rem;
 }
 
 .task .delelte{
